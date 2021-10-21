@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">loftmoney</string>
+
+    <string name="title">title</string>
+    <string name="price">price</string>
+    <string name="add">add</string>
+    <string name="go">go</string>
+</resources>
