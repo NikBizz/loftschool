@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Title">Название</string>
+    <string name="Price">Цена</string>
+    <string name="Add">Добавить</string>
+
+    <string name="hello_blank_fragment">Начальный фрагмент</string>
+
+    <array name="main_pager_titles">
+        <item name ="expenses">расходы</item>
+        <item name ="incomes">доходы</item>
+        <item name ="balance">баланс</item>
+    </array>
+
+</resources>

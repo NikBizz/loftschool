@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Loftmoney/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Loftmoney/app/src/main/res/layout/add_item_activity.xml" value="0.25" />
+        <entry key="..\:/Loftmoney/app/src/main/res/drawable/ic_add.xml" value="0.34814814814814815" />
+        <entry key="..\:/Loftmoney/app/src/main/res/layout/activity_add_item.xml" value="0.24947916666666667" />
+        <entry key="..\:/Loftmoney/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Loftmoney/app/src/main/res/layout/add_item_activity.xml" value="0.33" />
+        <entry key="..\:/Loftmoney/app/src/main/res/layout/cell_money.xml" value="0.25" />
+        <entry key="..\:/Loftmoney/app/src/main/res/layout/fragment_budget.xml" value="0.36574074074074076" />
+        <entry key="..\:/Loftmoney/app/src/main/res/layout/tablayout.xml" value="0.24074074074074073" />
         <entry key="..\:/Users/Nikita/Desktop/Loftmoney/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Nikita/Desktop/Loftmoney/app/src/main/res/layout/add_item_activity.xml" value="0.22" />
       </map>

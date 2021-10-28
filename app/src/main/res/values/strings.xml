@@ -1,8 +1,16 @@
-<resources>
-    <string name="app_name" translatable="false">loftmoney</string>
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">loftschooll</string>
+    <string name="Title">title</string>
+    <string name="Price">price</string>
+    <string name="Add">add</string>
 
-    <string name="title">title</string>
-    <string name="price">price</string>
-    <string name="add">add</string>
-    <string name="go">go</string>
+    <array name="main_pager_titles">
+        <item>expenses</item>
+        <item>incomes</item>
+        <item>balance</item>
+    </array>
+
+    <string name ="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
