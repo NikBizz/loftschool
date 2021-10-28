@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="title">название</string>
-    <string name="price">цена</string>
-    <string name="add">добавить</string>
-    <string name="go">переход</string>
-</resources>
